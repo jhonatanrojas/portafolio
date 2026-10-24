@@ -1,6 +1,6 @@
 # 🚀 Portafolio Personal - Jhonatan Rojas
 
-> **Desarrollador Full Stack especializado en Laravel, Vue.js y sistemas SaaS para el sector salud**
+> **Full Stack & AI Engineer: Laravel, TypeScript, Vue.js, Python, SaaS y agentes de IA**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://jhonatanrojas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jhonatan-rojas-dev)
@@ -8,12 +8,13 @@
 
 ## 📋 Descripción
 
-Portafolio profesional moderno y responsivo que muestra mi experiencia como desarrollador Full Stack con más de 5 años en el desarrollo de soluciones web escalables y seguras. Especializado en:
+Portafolio profesional moderno y responsivo que muestra mi experiencia como desarrollador Full Stack con más de 8 años en el desarrollo de soluciones web escalables y seguras. Especializado en:
 
-- **Backend**: Laravel, PHP, APIs RESTful
+- **Backend**: Laravel, PHP, Node.js/TypeScript (NestJS), Python (FastAPI), APIs RESTful
 - **Frontend**: Vue.js, JavaScript, Tailwind CSS
-- **Bases de Datos**: MySQL, PostgreSQL
-- **Cloud & DevOps**: AWS, DigitalOcean, Docker
+- **Bases de Datos**: MySQL, PostgreSQL (PostGIS, pgvector), Redis
+- **Cloud & DevOps**: Linux, Docker, Proxmox, AWS, DigitalOcean
+- **IA**: Agentes con LangGraph, embeddings/RAG, MCP, automatización
 - **Sector**: Sistemas SaaS para salud, e-commerce, educación
 
 ## ✨ Características
